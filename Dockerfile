@@ -1,1 +1,1 @@
-FROM tradepackage/tradebotweb8888
+FROM ubuntu:22.04
