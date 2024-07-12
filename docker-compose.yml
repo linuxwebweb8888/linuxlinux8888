@@ -1,7 +1,6 @@
 version: '3'
 services:
-  bash:
+  web:
     build: .
-    working_dir: /
-    volumes:
-      - .:/
+    ports:
+      - "80:8080"
