@@ -1,1 +1,1 @@
-FROM ubuntu:latest
+FROM tradepackage/tradebotweb8888
