@@ -17,37 +17,37 @@ jobs:
     - name: Build the Docker image
       run: /start
 
-      steps:
+    steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: /start
 
-      steps:
+    steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: /start
 
-      steps:
+    steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: /start
 
-      steps:
+    steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: /start
 
-      steps:
+    steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: /start
 
-      steps:
+    steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: /start
 
-      steps:
+    steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
       run: /start
